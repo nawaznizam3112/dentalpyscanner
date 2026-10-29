@@ -1,0 +1,9 @@
+streamlit>=1.35
+opencv-python-headless
+numpy
+scipy
+open3d
+trimesh
+plotly
+pytest
+ruff
